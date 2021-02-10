@@ -1,0 +1,53 @@
+.user-container {
+    float: left;
+    display: flex;
+    background: #fff;
+    border: 1px solid #cacaca;
+    min-height: 120px;
+    height: 120px;
+    min-width: 300px;
+    width: auto;
+    transition: all 0.3s;
+    max-width: 500px;
+}
+
+.user-info-container {
+    width: 100%;
+    margin: 10px;
+}
+
+.user-info-location {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    line-height: 1.4em;
+    color: #333;
+}
+
+.user-info-fullname {
+    font-size: 26px;
+    font-family: 'Segoe UI Light','Segoe UI',Segoe,Tahoma,Helvetica,Arial,sans-serif;
+    color: gray;
+    margin-bottom: auto;
+    height: 80%;
+}
+
+.user-inside-container {
+    width: 100%;
+    background: #fff;
+    transition: all 0.3s;
+    display: flex;
+}
+
+.user-img {
+    width: 112px;
+    height: 112px;
+}
+
+.user-a {
+    padding: 4px;
+}
+
+.out-of-office {
+    filter: grayscale(100%);
+    opacity: 0.3;
+}
