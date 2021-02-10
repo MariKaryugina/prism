@@ -1,0 +1,22 @@
+{
+    "threshold": 0.7,
+    "required_skills": "Go DevOps tools Docker AWS/S3 RedHa SQL NoSQL Redis unit-test",
+    "candidates": [
+        {
+            "id": 1,
+            "skills": "Gitlab JavaScript C# MySQL PostgreSQL KVM Docker"
+        },
+        {
+            "id": 2,
+            "skills": "SVN SQL Java C Jenkins PostgreSQL C# JavaScript"
+        },
+        {
+            "id": 3,
+            "skills": "TypeScript Gitlab Hudson MySQL Bash Docker"
+        },
+        {
+            "id": 4,
+            "skills": "Bash MSSQL PostgreSQL Go Mercurial Docker Python JavaScript Hudson"
+        }
+    ]
+}
