@@ -2,3 +2,22 @@
     font-size:  30px;
     font-weight:  bold;
 }
+
+.user-modal-img {
+    width: 125px;
+    height: 170px;
+    margin-right: 20px;
+}
+
+.close-button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 5px;
+    background: transparent;
+    border: 0px;
+}
+
+.close-button:hover {
+    background: lightgrey;
+}
